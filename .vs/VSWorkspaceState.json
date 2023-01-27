@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PHP",
+    "\\PHP\\CONFIG",
+    "\\Public"
   ],
-  "SelectedNode": "\\C:\\Users\\DevSOLUZINC\\Source\\Repos\\Projet_5_Creation_Blog_PHP",
+  "SelectedNode": "\\PHP\\index.php",
   "PreviewInSolutionExplorer": false
 }
