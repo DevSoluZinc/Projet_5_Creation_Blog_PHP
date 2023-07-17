@@ -1,0 +1,16 @@
+{
+    "name": "devsoluzinc/projet_5_creation_blog_php_v2",
+    "autoload": {
+        "psr-4": {
+            "Devsoluzinc\\Projet5CreationBlogPhpV2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maxence"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}

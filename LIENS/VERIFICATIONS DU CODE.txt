@@ -1,0 +1,1 @@
+https://app.codacy.com/gh/DevSoluZinc/Projet-5-CREATION-BLOG-PHP/dashboard?branch=SoluZinc

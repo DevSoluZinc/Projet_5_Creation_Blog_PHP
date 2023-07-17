@@ -2,9 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\PHP",
-    "\\PHP\\CONFIG",
-    "\\Public"
+    "\\PHP\\PAGES",
+    "\\PHP\\PAGES\\PAGES BLOG",
+    "\\PHP\\PAGES\\PAGES BLOG\\ASSETS",
+    "\\PHP\\PUBLIC",
+    "\\PHP\\PUBLIC\\UserPhoto",
+    "\\PHP\\VIEWS",
+    "\\PHP\\VIEWS\\ARTICLES",
+    "\\PHP\\VIEWS\\COMMENTS",
+    "\\PHP\\VIEWS\\MAIL"
   ],
-  "SelectedNode": "\\PHP\\header.php",
+  "SelectedNode": "\\PHP\\VIEWS\\MAIL\\envoyer_formulaire.php",
   "PreviewInSolutionExplorer": false
 }
